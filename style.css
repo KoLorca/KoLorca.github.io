@@ -1,0 +1,21 @@
+
+body {background-color: black;}
+h1   {color: #58A6FF;}
+p    {color: White;}
+a:link {
+  color: green;
+  background-color: transparent;
+  /*text-decoration: none;*/
+}
+
+a:visited {
+  color: darkgreen;
+  background-color: transparent;
+  /*text-decoration: none;*/
+}
+
+a:hover
+{
+    color:#57ff81;
+    text-decoration: underline;
+}
